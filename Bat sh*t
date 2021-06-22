@@ -1,0 +1,8 @@
+@echo off
+:loop
+start PlenterMsgs.vbs
+start PlenterMsgs.vbs
+start PlenterMsgs.vbs
+start PlenterMsgs.vbs
+start PlenterMsgs.vbs
+goto loop
